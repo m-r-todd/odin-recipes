@@ -1,3 +1,46 @@
 * {
     font-family: "Glass Antiqua", sans-serif;
 }
+
+html {
+    background-color: aliceblue;
+    margin: 0;
+    border: 20px solid rgb(3, 48, 88);
+    padding-bottom: 100%;
+}
+
+h1 {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 48px;
+    border: 5px solid rgb(3, 48, 88);
+    color: rgb(3, 48, 88);
+}
+
+ul {
+    padding: 0;
+}
+
+.recipes li {
+    display: inline-block;
+    background-color: rgb(3, 48, 88);
+    text-align: center;
+    font-size: 24px;
+    box-sizing: border-box;
+    width: 200px;
+    margin: 5px;
+    padding: 25px 0px;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 25px 0px;
+    
+}
+
+.recipes {
+    text-align: center;
+}

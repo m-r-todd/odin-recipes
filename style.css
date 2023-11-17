@@ -19,6 +19,7 @@ h1 {
 
 ul {
     padding: 0;
+    list-style: none;
 }
 
 .recipes li {
@@ -42,5 +43,13 @@ a {
 }
 
 .recipes {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+h4 {
     text-align: center;
 }
